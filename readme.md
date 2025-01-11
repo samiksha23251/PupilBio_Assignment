@@ -1,4 +1,4 @@
-# ############################---------------  Task 1 - Data Handling and Statistical Analysis  ------------############################
+# ###########-----  Task 1 - Data Handling and Statistical Analysis  -----#########
 
 # Task 1 - Data Handling and Statistical Analysis 
 
@@ -121,7 +121,7 @@ All plots are saved as PNG files (`conf_matrix.png`, `depth_variations_specifici
 
 ---
 
-# ############################--------------------  Task 2: NGS Data Analysis  ---------------------------############################
+# #######------  Task 2: NGS Data Analysis  ------######
 
 
 # Task 2: NGS Data Analysis
