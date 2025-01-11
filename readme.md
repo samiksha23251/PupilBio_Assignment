@@ -1,6 +1,4 @@
-# ##### Task 1 - Data Handling and Statistical Analysis  #####
-
-# Task 1 - Data Handling and Statistical Analysis 
+# ### Task 1 - Data Handling and Statistical Analysis  ###
 
 ## Objective
 This task involves analyzing CpG coverage data for different tissues, identifying potential PMPs (Pattern Methylation Patterns) with high specificity for tissue differentiation, and estimating thresholds for sequencing reads. The script leverages statistical methods and machine learning to achieve these goals.
@@ -121,10 +119,7 @@ All plots are saved as PNG files (`conf_matrix.png`, `depth_variations_specifici
 
 ---
 
-# ##### Task 2: NGS Data Analysis  #####
-
-
-# Task 2: NGS Data Analysis
+# ### Task 2: NGS Data Analysis  ###
 
 ---
 
